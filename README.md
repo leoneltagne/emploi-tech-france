@@ -121,11 +121,10 @@ Les données utilisées sont issues de :
 ## 👤 Auteur
 
 **Ton Nom**
-- LinkedIn : [linkedin.com/in/ton-profil](https://linkedin.com/in/leonel-tagne-kamghem)
-- GitHub : [github.com/leoneltagne](https://github.com/ton-username)
+- LinkedIn : [linkedin.com/in/leonel-tagne-kamghem](https://linkedin.com/in/leonel-tagne-kamghem)
+- GitHub : [github.com/leoneltagne](https://github.com/leoneltagne)
 
 ---
 
-## 📄 Licence
 
-Ce projet est sous licence MIT — voir le fichier [LICENSE](LICENSE) pour plus de détails.
+
