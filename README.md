@@ -121,8 +121,8 @@ Les données utilisées sont issues de :
 ## 👤 Auteur
 
 **Ton Nom**
-- LinkedIn : [linkedin.com/in/ton-profil](https://linkedin.com/in/ton-profil)
-- GitHub : [github.com/ton-username](https://github.com/ton-username)
+- LinkedIn : [linkedin.com/in/ton-profil](https://linkedin.com/in/leonel-tagne-kamghem)
+- GitHub : [github.com/leoneltagne](https://github.com/ton-username)
 
 ---
 
